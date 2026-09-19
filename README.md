@@ -1,3 +1,15 @@
+# BDR CRM
+
+A lightweight CRM-style web app built for individual B2B sales reps (BDRs) to track their prospects and daily sales activity in one place. Designed for someone managing a personal pipeline of accounts and leads who needs a simple way to see what's happening and what's next, without the overhead of a full enterprise CRM.
+
+## Team Members
+
+- Daniel Osorio
+- Mauricio Reyes
+
+---
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
